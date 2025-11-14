@@ -14,18 +14,18 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
     url: "/links/",
     icon: "material-symbols:link",
     children: [
-      {
-        name: "GitHub",
-        url: "https://github.com/CuteLeaf/Firefly",
-        external: true,
-        icon: "fa6-brands:github",
-      },
-      {
-        name: "Bilibili",
-        url: "https://space.bilibili.com/38932988",
-        external: true,
-        icon: "fa6-brands:bilibili",
-      },
+      // {
+      //   name: "GitHub",
+      //   url: "https://github.com/CuteLeaf/Firefly",
+      //   external: true,
+      //   icon: "fa6-brands:github",
+      // },
+      // {
+      //   name: "Bilibili",
+      //   url: "https://space.bilibili.com/38932988",
+      //   external: true,
+      //   icon: "fa6-brands:bilibili",
+      // },
     ],
   });
 
